@@ -6,7 +6,7 @@ if guess > 20 or guess < 1:
 while guess != number:
         if guess < number:
             print("Too low, try again. ")
-        else:
+        elif guess > number:
             print("Too high, try again. ")
         guess = int(input("Enter your guess: "))
 print("Congratulations! You've guessed the correct number:", number)
