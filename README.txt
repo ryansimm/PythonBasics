@@ -2,111 +2,60 @@ The code within this repositary is a short general
 workspace with various coding exercises to help further my 
 learning and consolidate my learning. 
 🟢 Level 1: Absolute Beginner (Syntax & Thinking in Python)
-1. Hello World Variations
-
+1. Hello World Variations ✅
 Goal: Get comfortable running Python
-
 Print text
-
 Print variables
-
 Print formatted strings
-
 Concepts
-
 print()
-
 Variables
-
 f-strings
 
-2. Simple Calculator
-
-What it does
-
-Takes two numbers and an operation (+, -, *, /)
-
+2. Simple Calculator✅
+Goal : Takes two numbers and an operation (+, -, *, /)
 Outputs the result
-
 Concepts
-
 input()
-
 Type casting (int, float)
-
 if / elif / else
 
-3. Number Guessing Game
-
+3. Number Guessing Game✅
 What it does
-
 Computer chooses a random number
-
 User guesses until correct
-
 Concepts
-
 while loops
-
-break
-
 random module
-
 Basic logic
 
-4. Password Strength Checker
-
-What it does
-
-Checks length, digits, uppercase, symbols
-
+4. Password Strength Checker✅
+Goal : Checks length, digits, uppercase, symbols
 Outputs strength rating
-
 Concepts
-
 Strings
-
 Loops
-
 Conditionals
-
 len(), any()
-
-💡 This ties nicely to your security coursework
 
 🟡 Level 2: Beginner → Intermediate (Data Structures)
 5. To-Do List (CLI)
 
-What it does
-
-Add, remove, list tasks
-
+Goal : Add, remove, list tasks
 Saves tasks in memory
-
 Concepts
-
 Lists
-
 Dictionaries
-
 Functions
-
 Basic program structure
 
 6. Contact Book
 
-What it does
-
-Store names, phone numbers, emails
-
+Goal : Store names, phone numbers, emails
 Search contacts
-
 Concepts
-
 Dictionaries
-
 Functions
-
 Input validation
 
 7. Word Frequency Counter
