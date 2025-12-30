@@ -43,8 +43,7 @@ Conditionals
 len(), any()
 
 🟡 Level 2: Beginner → Intermediate (Data Structures)
-5. To-Do List (CLI)
-
+5. To-Do List (CLI)✅
 Goals ;
 Add, remove, list tasks
 Saves tasks in memory
@@ -55,7 +54,6 @@ Functions
 Basic program structure
 
 6. Contact Book
-
 Goals ;
 Store names, phone numbers, emails
 Search contacts
